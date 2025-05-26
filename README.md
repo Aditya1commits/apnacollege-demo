@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first Git Repository
 <br>
-Author-Aditya chaudhary
+Author-Aditya chaudhary(adityachaudhay)
